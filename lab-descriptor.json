@@ -3,7 +3,7 @@
     "name": "Electrical Engineering",
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
-  "lab": "Analog Signals, Network and Measurement Virtual Laboratory",
+  "lab": "Analog Signals Network and Measurement Virtual Laboratory",
   "lab_display_name": "Analog Signals, Network and Measurement Virtual Laboratory",
   "deployLab": true,
   "phase": 3,
@@ -209,18 +209,15 @@
     }
   ],
   "targetAudience": {
-    "UG": [
-      "Electrical Engineering, Electronics branches"
-    ],
-    "PG": [
-      "Electrical Engineering, Electronics branches"
-    ]
+    "UG": ["Electrical Engineering, Electronics branches"],
+    "PG": ["Electrical Engineering, Electronics branches"]
   },
   "objective": "The experiments of this laboratory can be broadly divided in three types. Basic Electrical Technology Laboratory:The experiments under this section are related to verification of different network theorems used in both dc and ac circuits. This section is intended for undergraduate students of all engineering disciplines.Signals and Networks Laboratory:In this category, students will perfoem experiments related to properties of various analog signals and neworks. This section is intended for undergraduate students of Electrical, Electronics, Instrumentation and Computer Science Engineering.Measurement Laboratory:Experiments under this section are related to measurement of different unknown electrical components like capacitance, inductance, power measurements etc. This section is intended for undergraduate students of Electrical, Electronics and Instrumentation Engineering.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the analog electrical signals, networks and measurement of various electrical components course of various universities.",
-    "universities": [
-      "IIT Kharagpur"
-    ]
-  }
+    "universities": ["IIT Kharagpur"]
+  },
+  "exp_name": "To study the Wien Robinson's Frequency Bridge",
+  "exp_short_name": "robinson-frequency-bridge",
+  "version": "v0.1.0"
 }
