@@ -6,7 +6,7 @@
   "lab": "Analog Signals Network and Measurement Virtual Laboratory",
   "lab_display_name": "Analog Signals, Network and Measurement Virtual Laboratory",
   "deployLab": true,
-  "phase": 3,
+  "phase": 2,
   "collegeName": "IITKGP",
   "baseUrl": "asnm-iitkgp.vlabs.ac.in",
   "introduction": "In this laboratory, students will get to explore and learn various concepts regarding analog electrical signals, networks and measurement of various electrical components. The experiments are developed on open source web-based platforms, so that the student doesn't need to download or install any third-party application. Each experiment is designed in such a way that, the student first gets to learn the theories well and then perform the experiment to enhance their knowledge.",
@@ -219,5 +219,5 @@
   },
   "exp_name": "To study the Wien Robinson's Frequency Bridge",
   "exp_short_name": "robinson-frequency-bridge",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
