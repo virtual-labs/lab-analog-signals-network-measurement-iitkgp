@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Analog Signals Network and Measurement Virtual Laboratory",
   "lab_display_name": "Analog Signals, Network and Measurement Virtual Laboratory",
@@ -16,20 +17,20 @@
       "short-name": "verification-norton-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-norton-theorem-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Verification of Thevenin Theorem",
       "short-name": "verification-thevenin-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-thevenin-theorem-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Verification of Tellegen's Theorem",
       "short-name": "verification-tellegen-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-tellegen-theorem-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -37,41 +38,41 @@
       "short-name": "verification-superposition-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-superposition-theorem-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Verification of Millman’s Theorem",
       "short-name": "verification-millman-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-millman-theorem-iitkgp",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Three Phase Power Measurement",
       "short-name": "three-phase-power-measurement",
       "repo": "https://github.com/virtual-labs/exp-three-phase-power-measurement-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "R-L-C Circuit Analysis",
       "short-name": "rlc-circuit-analysis",
       "repo": "https://github.com/virtual-labs/exp-rlc-circuit-analysis-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Tests on Single Phase Transformer",
       "short-name": "single-phase-transformer",
       "repo": "https://github.com/virtual-labs/exp-single-phase-transformer-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Verification of Compensation Theorem",
       "short-name": "verification-compensation-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-compensation-theorem-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -79,27 +80,27 @@
       "short-name": "verification-reciprocity-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-reciprocity-theorem-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Verification of Maximum Power Transfer Theorem",
       "short-name": "maximum-power-transfer-theorem",
       "repo": "https://github.com/virtual-labs/exp-maximum-power-transfer-theorem-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Determination of different parameters of Two-port network and verification of their interrelations",
       "short-name": "two-port-network",
       "repo": "https://github.com/virtual-labs/exp-two-port-network-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Frequency Response of second order Active Filters",
       "short-name": "second-order-active-filters",
       "repo": "https://github.com/virtual-labs/exp-second-order-active-filters-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -107,34 +108,34 @@
       "short-name": "fourier-coefficients-periodic-signal",
       "repo": "https://github.com/virtual-labs/exp-fourier-coefficients-periodic-signal-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Frequency response of R-L-C series Circuit",
       "short-name": "rlc-series-circuit",
       "repo": "https://github.com/virtual-labs/exp-rlc-series-circuit-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Measurement of Capacitance by Carey Foster Bridge",
       "short-name": "carey-foster-bridge",
       "repo": "https://github.com/virtual-labs/exp-carey-foster-bridge-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge",
       "short-name": "high-quality-factor-coil",
       "repo": "https://github.com/virtual-labs/exp-high-quality-factor-coil-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study the Kelvin Double Bridge for Low resistance measurement",
       "short-name": "low-resistance-measurement",
       "repo": "https://github.com/virtual-labs/exp-low-resistance-measurement-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -142,27 +143,27 @@
       "short-name": "measurement-self-inductance",
       "repo": "https://github.com/virtual-labs/exp-measurement-self-inductance-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Q meter Experiment",
       "short-name": "q-meter-experiment",
       "repo": "https://github.com/virtual-labs/exp-q-meter-experiment-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Measurement of Capacitance by Wien Series Bridge",
       "short-name": "wien-series-bridge",
       "repo": "https://github.com/virtual-labs/exp-wien-series-bridge-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Measurement of Capacitance by De Sauty's (Modified) bridge",
       "short-name": "de-sauty-bridge",
       "repo": "https://github.com/virtual-labs/exp-de-sauty-bridge-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -170,20 +171,20 @@
       "short-name": "owen-bridge",
       "repo": "https://github.com/virtual-labs/exp-owen-bridge-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Measurement of Self-Inductance by Maxwell Bridge",
       "short-name": "maxwell-bridge",
       "repo": "https://github.com/virtual-labs/exp-maxwell-bridge-iitkgp",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Measurement of Capacitance by Schering Bridge",
       "short-name": "schering-bridge",
       "repo": "https://github.com/virtual-labs/exp-schering-bridge-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -191,21 +192,21 @@
       "short-name": "anderson-bridge",
       "repo": "https://github.com/virtual-labs/exp-anderson-bridge-iitkgp",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "To determine the High Resistance by Megohm Bridge method",
       "short-name": "megohm-bridge-method",
       "repo": "https://github.com/virtual-labs/exp-megohm-bridge-method-iitkgp",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "To study the Wien Robinson's Frequency Bridge",
       "short-name": "robinson-frequency-bridge",
       "repo": "https://github.com/virtual-labs/exp-robinson-frequency-bridge-iitkgp",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     }
   ],
   "targetAudience": {
@@ -219,5 +220,5 @@
   },
   "exp_name": "To study the Wien Robinson's Frequency Bridge",
   "exp_short_name": "robinson-frequency-bridge",
-  "version": "v0.3.0"
+  "version": "v0.4.0"
 }
