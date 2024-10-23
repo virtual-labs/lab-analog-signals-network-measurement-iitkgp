@@ -41,7 +41,7 @@
       "deploy": true
     },
     {
-      "name": "Verification of Millmanâs Theorem",
+      "name": "Verification of Millman's Theorem",
       "short-name": "verification-millman-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-millman-theorem-iitkgp",
       "tag": "v1.0.1",
