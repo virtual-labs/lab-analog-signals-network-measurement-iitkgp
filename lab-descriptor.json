@@ -51,14 +51,14 @@
       "name": "Three Phase Power Measurement",
       "short-name": "three-phase-power-measurement",
       "repo": "https://github.com/virtual-labs/exp-three-phase-power-measurement-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "R-L-C Circuit Analysis",
       "short-name": "rlc-circuit-analysis",
       "repo": "https://github.com/virtual-labs/exp-rlc-circuit-analysis-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
