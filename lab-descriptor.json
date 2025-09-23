@@ -93,7 +93,7 @@
       "name": "Determination of different parameters of Two-port network and verification of their interrelations",
       "short-name": "two-port-network",
       "repo": "https://github.com/virtual-labs/exp-two-port-network-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -114,7 +114,7 @@
       "name": "Frequency response of R-L-C series Circuit",
       "short-name": "rlc-series-circuit",
       "repo": "https://github.com/virtual-labs/exp-rlc-series-circuit-iitkgp",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
