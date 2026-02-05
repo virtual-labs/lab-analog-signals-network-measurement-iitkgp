@@ -23,7 +23,7 @@
       "name": "Verification of Thevenin Theorem",
       "short-name": "verification-thevenin-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-thevenin-theorem-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
