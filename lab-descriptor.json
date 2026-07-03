@@ -11,6 +11,9 @@
   "collegeName": "IITKGP",
   "baseUrl": "asnm-iitkgp.vlabs.ac.in",
   "introduction": "In this laboratory, students will get to explore and learn various concepts regarding analog electrical signals, networks and measurement of various electrical components. The experiments are developed on open source web-based platforms, so that the student doesn't need to download or install any third-party application. Each experiment is designed in such a way that, the student first gets to learn the theories well and then perform the experiment to enhance their knowledge.",
+  "experiment-sections": [
+    {
+      "sect-name": "Basic Electrical Technology Laboratory (For UG students of all disciplines)",
   "experiments": [
     {
       "name": "Verification of Norton Theorem",
@@ -74,7 +77,12 @@
       "repo": "https://github.com/virtual-labs/exp-verification-compensation-theorem-iitkgp",
       "tag": "v1.0.2",
       "deploy": true
+    }
+  ]
     },
+     {
+      "sect-name": "Signals and Networks Laboratory (For UG students of EE, EC, CSE and IN)",
+      "experiments": [
     {
       "name": "Verification of Reciprocity Theorem",
       "short-name": "verification-reciprocity-theorem",
@@ -116,7 +124,14 @@
       "repo": "https://github.com/virtual-labs/exp-rlc-series-circuit-iitkgp",
       "tag": "v1.0.3",
       "deploy": true
-    },
+    }
+
+      ]
+     },
+
+    {
+      "sect-name": "Measurement Laboratory (For UG students of EE, EC and IN)",
+      "experiments": [
     {
       "name": "Measurement of Capacitance by Carey Foster Bridge",
       "short-name": "carey-foster-bridge",
@@ -208,10 +223,15 @@
       "tag": "v1.0.1",
       "deploy": true
     }
-  ],
+  ]
+    }
+    ],
+
   "targetAudience": {
     "UG": [
-      "Electrical Engineering, Electronics branches"
+      "A. Basic Electrical Technology Laboratory (For UG students of all disciplines)",
+"B. Signals and Networks Laboratory (For UG students of EE, EC, CSE and IN)",
+"C. Measurement Laboratory (For UG students of EE, EC and IN)"
     ],
     "PG": [
       "Electrical Engineering, Electronics branches"
@@ -223,8 +243,5 @@
     "universities": [
       "IIT Kharagpur"
     ]
-  },
-  "exp_name": "To study the Wien Robinson's Frequency Bridge",
-  "exp_short_name": "robinson-frequency-bridge",
-  "version": "v0.4.0"
-}
+  }
+    }
