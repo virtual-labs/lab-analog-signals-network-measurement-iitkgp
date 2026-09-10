@@ -47,7 +47,7 @@
       "name": "Verification of Millman's Theorem",
       "short-name": "verification-millman-theorem",
       "repo": "https://github.com/virtual-labs/exp-verification-millman-theorem-iitkgp",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
@@ -61,7 +61,7 @@
       "name": "R-L-C Circuit Analysis",
       "short-name": "rlc-circuit-analysis",
       "repo": "https://github.com/virtual-labs/exp-rlc-circuit-analysis-iitkgp",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -115,7 +115,7 @@
       "name": "Estimation of Fourier Coefficients of a Periodic Signal through passive Network",
       "short-name": "fourier-coefficients-periodic-signal",
       "repo": "https://github.com/virtual-labs/exp-fourier-coefficients-periodic-signal-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -185,7 +185,7 @@
       "name": "Mesurement of Self Inductance by Owen Bridge",
       "short-name": "owen-bridge",
       "repo": "https://github.com/virtual-labs/exp-owen-bridge-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -206,7 +206,7 @@
       "name": "Measurement of Self Inductance accurately by Anderson's Bridge",
       "short-name": "anderson-bridge",
       "repo": "https://github.com/virtual-labs/exp-anderson-bridge-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
